@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=COVID19_Test
+comment1.params=name\ preis\ dauer_Std
+comment1.target=COVID19_Test(java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=void\ positivErgebnis()
+comment3.params=
+comment3.target=double\ getPreis()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
