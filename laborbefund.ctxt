@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=laborbefund
+comment0.text=import\ javax.mail.*;\r\nimport\ javax.mail.internet.*;\r\nimport\ javax.activation.*;
+comment1.params=
+comment1.target=laborbefund()
+comment2.params=nachricht
+comment2.target=void\ setR\u00FCckmeldung(java.lang.String)
+comment3.params=
+comment3.target=void\ Meldung_an_Gesundheitsamt()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

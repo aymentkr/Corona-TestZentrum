@@ -2,6 +2,12 @@
 comment0.target=Termin
 comment1.params=k\ t
 comment1.target=Termin(Kunde,\ Test_station)
-comment2.params=
-comment2.target=java.lang.String\ toString()
-numComments=3
+comment2.params=preis
+comment2.target=void\ setPreis(double)
+comment3.params=
+comment3.target=double\ getPreis()
+comment4.params=
+comment4.target=void\ setDate()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

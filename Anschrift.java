@@ -27,6 +27,6 @@ public class Anschrift{
       Postleitzahl = plZ;
    }
    public String toString(){
-       return strasse + " " + hausnummer + "\n" + Postleitzahl +" " + hausnummer;
+       return strasse + " " + hausnummer + "\n" + Postleitzahl +", " + Stadt;
    }
 }

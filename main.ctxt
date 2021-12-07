@@ -1,9 +1,19 @@
 #BlueJ class context
 comment0.target=main
-comment1.params=email
-comment1.target=boolean\ controlEmail(java.lang.String)
-comment2.params=str\ hausnummer\ plz\ Stadt
-comment2.target=Anschrift\ addAddress(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4
+comment1.params=
+comment1.target=void\ clearConsole()
+comment2.params=email
+comment2.target=boolean\ controlEmail(java.lang.String)
+comment3.params=str\ hausnummer\ plz\ Stadt
+comment3.target=Anschrift\ addAddress(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment4.params=k\ c
+comment4.target=boolean\ controlTestGratis(Kunde,\ char)
+comment5.params=
+comment5.target=Kunde\ lire_data_kunde()
+comment6.params=k\ COVID19_Tests
+comment6.target=void\ chooseTest(Kunde,\ java.util.ArrayList)
+comment7.params=k\ Test_stations
+comment7.target=void\ createAppointment(Kunde,\ java.util.ArrayList)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
