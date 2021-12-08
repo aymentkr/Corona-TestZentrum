@@ -1,8 +1,8 @@
 #BlueJ class context
 comment0.target=laborbefund
 comment0.text=import\ javax.mail.*;\r\nimport\ javax.mail.internet.*;\r\nimport\ javax.activation.*;
-comment1.params=
-comment1.target=laborbefund()
+comment1.params=tr
+comment1.target=laborbefund(Termin)
 comment2.params=nachricht
 comment2.target=void\ setR\u00FCckmeldung(java.lang.String)
 comment3.params=

@@ -1,13 +1,15 @@
 #BlueJ class context
 comment0.target=Termin
-comment1.params=k\ t
-comment1.target=Termin(Kunde,\ Test_station)
-comment2.params=preis
-comment2.target=void\ setPreis(double)
-comment3.params=
-comment3.target=double\ getPreis()
+comment1.params=k\ ts\ ct
+comment1.target=Termin(Kunde,\ Test_station,\ COVID19_Test)
+comment2.params=
+comment2.target=void\ createAppointment()
+comment3.params=preis
+comment3.target=void\ setPreis(double)
 comment4.params=
-comment4.target=void\ setDate()
+comment4.target=double\ getPreis()
 comment5.params=
-comment5.target=java.lang.String\ toString()
-numComments=6
+comment5.target=void\ setDate()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -7,14 +7,14 @@ import javax.activation.*;*/
 public class laborbefund {
     Termin tr;
     String Rückmeldung;
-    public laborbefund(){
-        
+    public laborbefund(Termin tr){
+        this.tr = tr;
     }
     public void setRückmeldung (String nachricht){
         Rückmeldung=nachricht;
     }
     public void Meldung_an_Gesundheitsamt(){
-      /*if (tr.k.t.getErgebnis() == '+'){
+      /*if (k.t.getErgebnis() == '+'){
       // Recipient's email ID needs to be mentioned.
       String to = "gesundheitsamt-corona@dresden.de";
       // Sender's email ID needs to be mentioned
@@ -49,6 +49,6 @@ public class laborbefund {
 
     
     public String toString(){
-        return tr.k+ "Ergebnis : "+tr.k.t.getErgebnis() + Rückmeldung;
+        return tr.k+ "Ergebnis : "+tr.ct.getErgebnis() + Rückmeldung;
     }
 }

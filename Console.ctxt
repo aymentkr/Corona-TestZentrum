@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Console
+comment1.params=str
+comment1.target=void\ alert(java.lang.String)
+comment2.params=email
+comment2.target=boolean\ controlEmail(java.lang.String)
+comment3.params=k\ c
+comment3.target=boolean\ controlTestGratis(Kunde,\ char)
+comment4.params=
+comment4.target=Kunde\ read_data_kunde()
+comment5.params=
+comment5.target=void\ clearConsole()
+numComments=6

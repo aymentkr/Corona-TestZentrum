@@ -6,6 +6,12 @@ public class Anschrift{
         strasse = Stadt = Postleitzahl = "";
         hausnummer = 0;
     }
+    public Anschrift ( String str, int hausnummer,String plz,String Stadt){ 
+        strasse = str;
+        this.hausnummer =hausnummer;
+        Postleitzahl = plz;
+        this.Stadt =Stadt;
+    }
 
  public void setStrasse(String str)
    {
